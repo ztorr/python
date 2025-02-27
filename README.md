@@ -1,2 +1,2 @@
 # python
-$\color{blue}{first time coding in pyhton}$
+$\color{blue}{first\ time\ coding\ in\ python}$
