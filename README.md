@@ -1,2 +1,2 @@
 # python
-$\color{red}textsf{yo}$
+$\color{red}{yo}$
