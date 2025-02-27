@@ -1,2 +1,2 @@
 # python
-$\color{red}{yo}$
+$\color{blue}{first time coding in pyhton}$
